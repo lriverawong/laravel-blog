@@ -20,3 +20,8 @@ Enter container
 Have files created by host's user.
 
     docker-compose exec --user=laradock workspace bash
+
+Recompiling assets after changing sass vars in app/resources/assets/sass/_variables.scss
+
+    # inside project
+    npm run dev
