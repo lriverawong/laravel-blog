@@ -74,6 +74,8 @@
       <path value="$PROJECT_DIR$/laravel-blog/vendor/phpdocumentor/reflection-common" />
       <path value="$PROJECT_DIR$/laravel-blog/vendor/psy/psysh" />
       <path value="$PROJECT_DIR$/laravel-blog/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/laravel-blog/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/laravel-blog/vendor/unisharp/laravel-ckeditor" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />

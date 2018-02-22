@@ -20,6 +20,7 @@
       <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/jakub-onderka/php-console-highlighter" />
       <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/laravel/framework" />
       <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/laravelcollective/html" />
       <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/league/flysystem" />
       <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/mockery/mockery" />
       <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/monolog/monolog" />
@@ -74,6 +75,7 @@
       <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/symfony/var-dumper" />
       <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/unisharp/laravel-ckeditor" />
       <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/vlucas/phpdotenv" />
       <excludeFolder url="file://$MODULE_DIR$/laravel-blog/vendor/webmozart/assert" />
     </content>
