@@ -47,4 +47,8 @@ See available routes
 
     php artisan route:list
 
+Added the following ckeditor:
+
+    https://github.com/UniSharp/laravel-ckeditor
+
     
