@@ -51,4 +51,18 @@ Added the following ckeditor:
 
     https://github.com/UniSharp/laravel-ckeditor
 
+Enable user authentication including all preprovided controllers.
+
+    php artisan make:auth
     
+Run migration
+
+    php artisan migrate
+
+Rollback migration
+
+    php artisan migrate:rollback
+
+User url helpers
+
+    href="/custom-page" => href={{route('custom_page_name')}}
